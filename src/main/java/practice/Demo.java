@@ -7,5 +7,6 @@ public class Demo {
 public void demo()
 {
 	System.out.println("sunil");
+	System.out.println("sunil 1");
 }
 }
